@@ -1,2 +1,2 @@
-# CommentBlock
-A quick Vim comment block plugin (mostly for Splunk .conf and ini files)
+# SectionHeader
+A quick Vim comment block plugin for Section Headers (predominantly for Splunk .conf / ini files)
